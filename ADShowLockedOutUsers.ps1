@@ -1,0 +1,1 @@
+﻿Search-ADAccount -LockedOut -UsersOnly | Format-Table SamAccountName, Name
